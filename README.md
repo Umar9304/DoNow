@@ -1,6 +1,6 @@
 # DoNow – AI-Powered Productivity & Task Management App
 ---
-##Once you clone this repo 
+# Once you clone this repo 
 - add **.env** file in your main branch i.e where your pubspec.yaml file is
 - and add **GEMINI_API_KEY=YOURGeminiAPI** inside the file
 ---
