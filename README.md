@@ -1,8 +1,8 @@
 # DoNow – AI-Powered Productivity & Task Management App
 ---
 # Once you clone this repo 
-- add **.env** file in your main branch i.e where your pubspec.yaml file is
-- and add **GEMINI_API_KEY=YOURGeminiAPI** inside the file
+- ## add **.env** file in your main branch i.e where your pubspec.yaml file is
+- ## and add **GEMINI_API_KEY=YOURGeminiAPI** inside the file
 ---
 ## Overview
 DoNow is an intelligent task management and productivity enhancement application designed to help users overcome procrastination and optimize their daily schedules. By leveraging Machine Learning (ML), Firebase, and Flutter, the app provides personalized reminders, adaptive task scheduling, and behavioral insights to ensure tasks are completed efficiently.
